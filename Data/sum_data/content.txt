@@ -1,0 +1,5 @@
+Summary parallelism tables for each level
+comp: composition
+gene: gene level parallelism
+growth: growth parameters
+int: interactions

@@ -1,0 +1,252 @@
+Species,ev-comm,ev-ident,when,serial number,Pre-Na,anc
+Pch ,Pch_IN63,Exp14-p6D8,6_22,18,Naive,FALSE
+Pch ,Pch_IN63,Exp14-p6B8,6_22,21,Naive,FALSE
+Pch ,Pch_IN63,Exp14-p6F8,6_22,37,Naive,FALSE
+Pch ,Pch_IN63,Exp14-p7B8,6_22,53,Naive,FALSE
+Pch ,Pch_IN63,Exp14-p7F8,,,Naive,FALSE
+Pch ,Pch_IN63,Exp14-p7D8,6_22,64,Naive,FALSE
+Pch ,Pch_Pf,Exp14-p6A7,6_22,6,Naive,FALSE
+Pch ,Pch_Pf,Exp14-p7C7,6_22,24,Naive,FALSE
+Pch ,Pch_Pf,Exp14-p7A7,6_22,40,Naive,FALSE
+Pch ,Pch_Pf,Exp14-p6E7,6_22,45,Naive,FALSE
+Pch ,Pch_Pf,Exp14-p7E7,6_22,59,Naive,FALSE
+Pch ,,,,,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p6B2,12_21,121121_235,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p7D2,12_21,121121_236,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p6D2,12_21,121121_237,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p7B2,12_21,121121_238,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p7F2,12_21,121121_241,Naive,FALSE
+Pch ,Ea_Pch,Exp14-p6F2,12_21,121121_240,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p6G7,12_21,121121_242,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p6G1,12_21,121121_243,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p6G3,12_21,121121_244,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p6G11,12_21,121121_246,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p6G5,12_21,121121_245,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p8G1,8_21,,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p8G7,8_21,021021_50,Naive,FALSE
+Pch ,Pch_Sm,Exp14-p8G9,8_21,021021_52,Naive,FALSE
+Pch ,Pch,Exp14-p1A3,12_21,121121_254,Naive,FALSE
+Pch ,Pch,Exp14-p1E3,12_21,121121_231,Naive,FALSE
+Pch ,Pch,Exp14-p1C3,12_21,121121_232,Naive,FALSE
+Pch ,Pch,Exp14-p2A3,12_21,121121_233,Naive,FALSE
+Pch ,Pch,Exp14-p2C3,12_21,121121_234,Naive,FALSE
+Pch ,Pch,Exp14-p2E3,6_22,74,Naive,FALSE
+Pch ,anc,anc,8_21,56,Naive,TRUE
+Pf,Pch_Pf,Exp14-p6A7,6_22,9,Naive,FALSE
+Pf,Pch_Pf,Exp14-p7A7,6_22,34,Naive,FALSE
+Pf,Pch_Pf,Exp14-p7C7,6_22,55,Naive,FALSE
+Pf,Pch_Pf,Exp14-p7E7,6_22,4,Naive,FALSE
+Pf,Pch_Pf,,,,Naive,FALSE
+Pf,Pch_Pf,,,,Naive,FALSE
+Pf,Ea_Pf,Exp14-p6D4,6_22,23,Naive,FALSE
+Pf,Ea_Pf,Exp14-p7B4,6_22,38,Naive,FALSE
+Pf,Ea_Pf,Exp14-p6F4,6_22,46,Naive,FALSE
+Pf,Ea_Pf,Exp14-p7D4,6_22,50,Naive,FALSE
+Pf,Ea_Pf,Exp14-p7F4,6_22,57,Naive,FALSE
+Pf,Ea_Pf,Exp14-p6B4,6_22,7,Naive,FALSE
+Pf,Pf_Ab,Exp14-p6H4,12_21,121121_223,Naive,FALSE
+Pf,Pf_Ab,Exp14-p6H2,12_21,121121_224,Naive,FALSE
+Pf,Pf_Ab,Exp14-p7H6,12_21,121121_225,Naive,FALSE
+Pf,Pf_Ab,Exp14-p6H12,12_21,121121_226,Naive,FALSE
+Pf,Pf_Ab,Exp14-p7H4,12_21,121121_227,Naive,FALSE
+Pf,Pf_Ab,Exp14-p6H10,12_21,121121_228,Naive,FALSE
+Pf,Pf_Ab,Exp14-p6H8,12_21,121121_229,Naive,FALSE
+Pf,Pf_Ab,Exp14-p7H2,12_21,121121_230,Naive,FALSE
+Pf,Pf_Sm,Exp14-p6A9,12_21,121121_218,Naive,FALSE
+Pf,Pf_Sm,Exp14-p6C9,12_21,121121_219,Naive,FALSE
+Pf,Pf_Sm,Exp14-p7A9,12_21,121121_220,Naive,FALSE
+Pf,Pf_Sm,Exp14-p6E9,12_21,121121_221,Naive,FALSE
+Pf,Pf_Sm,Exp14-p7C9,12_21,121121_222,Naive,FALSE
+Pf,Pf_Sm,Exp14-p7E9,6_22,70,Naive,FALSE
+Pf,Pf_Sm,Exp14-p8A9,8_21,021021_43,Naive,FALSE
+Pf,Pf_Sm,Exp14-p8C9,8_21,021021_45,Naive,FALSE
+Pf,Pf_Sm,Exp14-p8E9,8_21,021021_47,Naive,FALSE
+Pf,Pf,Exp14-p1A5,12_21,121121_215,Naive,FALSE
+Pf,Pf,Exp14-p1C5,12_21,121121_216,Naive,FALSE
+Pf,Pf,Exp14-p2E5,12_21,121121_253,Naive,FALSE
+Pf,Pf,Exp14-p2C5,12_21,121121_217,Naive,FALSE
+Pf,,,,,Naive,FALSE
+Pf,,,,,Naive,FALSE
+Pf,anc,anc,8_21,021021_54,Naive,FALSE
+Pa,Pa_Pv,Exp14-p6C5,,,Naive,FALSE
+Pa,Pa_Pv,Exp14-p7C5,6_22,33,Naive,FALSE
+Pa,Pa_Pv,Exp14-p7A5,6_22,48,Naive,FALSE
+Pa,Pa_Pv,Exp14-p6E5,6_22,51,Naive,FALSE
+Pa,Pa_Pv,Exp14-p7E5,6_22,63,Naive,FALSE
+Pa,,,,,Naive,FALSE
+Pa,Ea_Pa,Exp14-p6A1,6_22,15,Naive,FALSE
+Pa,Ea_Pa,Exp14-p6C1,6_22,17,Naive,FALSE
+Pa,Ea_Pa,Exp14-p7A1,6_22,26,Naive,FALSE
+Pa,Ea_Pa,Exp14-p6E1,6_22,36,Naive,FALSE
+Pa,Ea_Pa,Exp14-p7E1,6_22,69,Naive,FALSE
+Pa,Ea_Pa,Exp14-p7C1,6_22,52,Naive,FALSE
+Pa,Pa,Exp14-p1F2,6_22,5,Naive,FALSE
+Pa,Pa,Exp14-p1D2,12_21,121121_256,Naive,FALSE
+Pa,Pa,Exp14-p1B2,6_22,16,Naive,FALSE
+Pa,Pa,Exp14-p2D2,6_22,56,Naive,FALSE
+Pa,Pa,Exp14-p2F2,6_22,67,Naive,FALSE
+Pa,Pa,,,,Naive,FALSE
+Pa,anc,,6_22,2,Naive,FALSE
+Ea,Ea_Pf,Exp14-p6D4,6_22,30,Naive,FALSE
+Ea,Ea_Pf,Exp14-p7B4,6_22,43,Naive,FALSE
+Ea,Ea_Pf,Exp14-p6F4,6_22,42,Naive,FALSE
+Ea,Ea_Pf,Exp14-p7D4,6_22,54,Naive,FALSE
+Ea,Ea_Pf,Exp14-p7F4,6_22,61,Naive,FALSE
+Ea,Ea_Pf,Exp14-p6B4,,,Naive,FALSE
+Ea,Ea_Pa,Exp14-p6C1,6_22,14,Naive,FALSE
+Ea,Ea_Pa,Exp14-p7C1,6_22,29,Naive,FALSE
+Ea,Ea_Pa,Exp14-p7A1,6_22,31,Naive,FALSE
+Ea,Ea_Pa,Exp14-p6E1,6_22,41,Naive,FALSE
+Ea,Ea_Pa,Exp14-p7E1,6_22,71,Naive,FALSE
+Ea,Ea_Pa,Exp14-p6A1,6_22,13,Naive,FALSE
+Ea,Ea_Pch,Exp14-p6B2,6_22,20,Naive,FALSE
+Ea,Ea_Pch,Exp14-p7D2,6_22,32,Naive,FALSE
+Ea,Ea_Pch,Exp14-p6D2,6_22,39,Naive,FALSE
+Ea,Ea_Pch,Exp14-p7B2,6_22,44,Naive,FALSE
+Ea,Ea_Pch,Exp14-p7F2,6_22,68,Naive,FALSE
+Ea,Ea_Pch,Exp14-p6F2,6_22,49,Naive,FALSE
+Ea,Ea,Exp14-p1E1,6_22,8,Naive,FALSE
+Ea,Ea,Exp14-p1C1,12_21,121121_255,Naive,FALSE
+Ea,Ea,Exp14-p2C1,6_22,62,Naive,FALSE
+Ea,Ea,Exp14-p2E1,6_22,72,Naive,FALSE
+Ea,,,,,Naive,FALSE
+Ea,,,,,Naive,FALSE
+Ea,anc,anc,6_22,1,Naive,FALSE
+Sm,Pch_Sm,Exp14-p6G7,6_22,11,Naive,FALSE
+Sm,Pch_Sm,Exp14-p6G1,6_22,75,Naive,FALSE
+Sm,Pch_Sm,Exp14-p6G3,6_22,19,Naive,FALSE
+Sm,Pch_Sm,Exp14-p6G11,6_22,28,Naive,FALSE
+Sm,Pch_Sm,Exp14-p7G1,6_22,58,Naive,FALSE
+Sm,Pch_Sm,Exp14-p7G7,,,Naive,FALSE
+Sm,Pch_Sm,Exp14-p8G1,8_21,021021_49,Naive,FALSE
+Sm,Pch_Sm,Exp14-p8G7,8_21,021021_51,Naive,FALSE
+Sm,Pch_Sm,Exp14-p8G9,8_21,021021_53,Naive,FALSE
+Sm,Pf_Sm,Exp14-p6A9,6_22,3,Naive,FALSE
+Sm,Pf_Sm,Exp14-p6C9,6_22,27,Naive,FALSE
+Sm,Pf_Sm,Exp14-p7A9,6_22,25,Naive,FALSE
+Sm,Pf_Sm,Exp14-p6E9,6_22,35,Naive,FALSE
+Sm,Pf_Sm,Exp14-p7C9,6_22,47,Naive,FALSE
+Sm,Pf_Sm,Exp14-p7E9,6_22,73,Naive,FALSE
+Sm,Pf_Sm,Exp14-p8A9,8_21,021021_44,Naive,FALSE
+Sm,Pf_Sm,Exp14-p8C9,8_21,021021_46,Naive,FALSE
+Sm,Pf_Sm,Exp14-p8E9,8_21,021021_48,Naive,FALSE
+Sm,Sm,Exp14-p1A7,6_22,10,Naive,FALSE
+Sm,Sm,Exp14-p1E7,6_22,12,Naive,FALSE
+Sm,Sm,Exp14-p1C7,6_22,22,Naive,FALSE
+Sm,Sm,Exp14-p2E7,6_22,60,Naive,FALSE
+Sm,Sm,Exp14-p2A7,6_22,65,Naive,FALSE
+Sm,Sm,Exp14-p2D8,6_22,66,Naive,FALSE
+Sm,anc,anc,6_22,55,Naive,TRUE
+Ab,Ab_Sm,Exp14-p3F4,4_20,021220_66,Naive,FALSE
+Ab,Ab_Sm,Exp14-p5F4,4_20,021220_67,Naive,FALSE
+Ab,Ab_Sm,Exp14-p3F4,4_20,021220_68,Naive,FALSE
+Ab,Pf_Ab,Exp14-p6H2,4_20,021220_69,Naive,FALSE
+Ab,Pf_Ab,Exp14-p7H4,4_20,021220_70,Naive,FALSE
+Ab,Pf_Ab,Exp14-p8H8,4_20,021220_71,Naive,FALSE
+Ab,Ab,Exp14-p1B8,4_20,021220_72,Naive,FALSE
+Ab,Ab,Exp14-p1D8,4_20,021220_73,Naive,FALSE
+Ab,Ab,Exp14-p2F8,4_20,021220_74,Naive,FALSE
+Ab,Ab_IN72,Exp14--p8C11,4_20,021220_75,Naive,FALSE
+Ab,Ab_IN72,Exp14-p6C11,4_20,021220_76,Naive,FALSE
+Ab,Ab_IN72,Exp14-p7C11,4_20,021220_77,Naive,FALSE
+Ab,anc,anc,8_21,021021_57,Naive,TRUE
+Ea,Ea_Pf,Exp14-p8F4,7_21,76,Naive,FALSE
+Pa,Pa_Pv,Exp14-p8C5,7_21,77,Naive,FALSE
+Pa,Pa_Pv,Exp14-p8E5,7_21,78,Naive,FALSE
+Pa,Ea_Pa,Exp14-p8A1,7_21,79,Naive,FALSE
+Pch,Pch_Pf,Exp14-p8C7,7_21,80,Naive,FALSE
+Pch,Pch_IN63,Exp14-p8D8,7_21,81,Naive,FALSE
+Pch,Pch_Pf,Exp14-p8A7,7_21,82,Naive,FALSE
+Pf,Pch_Pf,Exp14-p8E7,7_21,83,Naive,FALSE
+Ab,Ab,Exp14-p2B8,7_21,84,Naive,FALSE
+Ab,Ab,Exp14-p2F8,7_21,85,Naive,FALSE
+Ab,Pf_Ab,Exp14-p8H2,7_21,86,Naive,FALSE
+Ab,Pf_Ab,Exp14-p8H10,7_21,87,Naive,FALSE
+Ab,Pf_Ab,Exp14-p8H12,7_21,88,Naive,FALSE
+Ea,Ea,Exp14-p1A1,7_21,89,Naive,FALSE
+Pf,Pf,Exp14-p1A5,7_21,90,Naive,FALSE
+Pf,Pf,Exp14-p2A5,7_21,91,Naive,FALSE
+Pch,Ea_Pch,Exp26-p1A11,12_22,1,Pre-adapted,FALSE
+Ea,Ea_Pf,Exp26-p1B10,12_22,2,Pre-adapted,FALSE
+Ab,Ab_IN72,Exp26-p1C5,12_22,4,Pre-adapted,FALSE
+Pa,Ea_Pa,Exp26-p1E11,12_22,5,Pre-adapted,FALSE
+Pch,Ea_Pch,Exp26-p1G11,12_22,6,Pre-adapted,FALSE
+Pa,Pa_Pv,Exp26-p1G5,12_22,7,Pre-adapted,FALSE
+Ea,Ea,Exp26-p3F2,12_22,8,Pre-adapted,FALSE
+Ea,Ea_Pch,Exp26-p1A11,12_22,9,Pre-adapted,FALSE
+Pch,Pch_Sm,Exp26-p1C3,12_22,11,Pre-adapted,FALSE
+Pf,Pv_Pf,Exp26-p1F12,12_22,12,Pre-adapted,FALSE
+Pf,Ea_Pf,Exp26-p1E9,12_22,13,Pre-adapted,FALSE
+Pa,Ea_Pa,Exp26-p1H12,12_22,14,Pre-adapted,FALSE
+Ea,Ea_Pch,Exp26-p1G11,12_22,15,Pre-adapted,FALSE
+Pf,Pv_Pf,Exp26-p1C11,12_22,16,Pre-adapted,FALSE
+Pch,Ea_Pch,Exp26-p1F10,12_22,17,Pre-adapted,FALSE
+Ea,Ea_Pf,Exp26-p1E9,12_22,18,Pre-adapted,FALSE
+Ea,Ea_Pa,Exp26-p1H12,12_22,19,Pre-adapted,FALSE
+Pch,Pch_Pci,Exp26-p1G3,12_22,21,Pre-adapted,FALSE
+Pch,Pch_Pf,Exp26-p1B6,12_22,23,Pre-adapted,FALSE
+Ab,Ab_IN72,Exp26-p1F6,12_22,24,Pre-adapted,FALSE
+Pf,Ea_Pf,Exp26-p1H10,12_22,25,Pre-adapted,FALSE
+Ea,Ea_Pch,Exp26-p1A11,12_22,26,Pre-adapted,FALSE
+Ab,Pf_Ab,Exp26-p1B4,12_22,27,Pre-adapted,FALSE
+Pch,Ea_Pch,Exp26-p1C9,12_22,28,Pre-adapted,FALSE
+Pch,Ea_Pch,Exp26-p1D12,12_22,29,Pre-adapted,FALSE
+Pa,Pa_Pv,Exp26-p1D6,12_22,30,Pre-adapted,FALSE
+Ea,Ea_Pf,Exp26-p1H10,12_22,31,Pre-adapted,FALSE
+Pa,Ea_Pa,Exp26-p1B12,12_22,32,Pre-adapted,FALSE
+Pf,Pf_Ab,Exp26-p1B4,12_22,33,Pre-adapted,FALSE
+Ea,Ea_Pch,Exp26-p1C9,12_22,34,Pre-adapted,FALSE
+Pch,Pch_Pf,Exp26-p1H6,12_22,37,Pre-adapted,FALSE
+Ab,Ab,Exp26-p3E1,12_22,38,Pre-adapted,FALSE
+Ea,Ea_Pa,Exp26-p1B12,12_22,39,Pre-adapted,FALSE
+Pch,Pch_Sm,Exp26-p1F4,12_22,40,Pre-adapted,FALSE
+Pf,Pf_Ab,Exp26-p1H4,12_22,41,Pre-adapted,FALSE
+Pa,Pa_Pv,Exp26-p1A5,12_22,42,Pre-adapted,FALSE
+Pf,Ea_Pf,Exp26-p1B10,12_22,43,Pre-adapted,FALSE
+Ea,Ea_Pa,Exp26-p1E11,12_22,44,Pre-adapted,FALSE
+Pf,Pf_Ab,Exp26-p1E3,12_22,45,Pre-adapted,FALSE
+Pch,Pch,Exp26-p3F6,12_22,46,Pre-adapted,FALSE
+Pa,Pa_Pv,Exp26-p2B6,12_22,47,Pre-adapted,FALSE
+Pf,Ea_Pf,Exp26-p2C9,12_22,48,Pre-adapted,FALSE
+Pf,Ea_Pf,Exp26-p2F10,12_22,49,Pre-adapted,FALSE
+Pa,Pa_Pv,Exp26-p2E5,12_22,50,Pre-adapted,FALSE
+Ea,Ea_Pf,Exp26-p2F10,12_22,51,Pre-adapted,FALSE
+Pch,Pch_Pci,Exp26-p2E3,12_22,52,Pre-adapted,FALSE
+Pch,Pch,Exp26-p2H6,12_22,53,Pre-adapted,FALSE
+Pch,Pch_Pci,Exp26-p2B4,12_22,54,Pre-adapted,FALSE
+Pf,Pv_Pf,Exp26-p2D12,12_22,55,Pre-adapted,FALSE
+Pch,Pch_Sm,Exp26-p2D4,12_22,56,Pre-adapted,FALSE
+Pch,Pch_Pf,Exp26-p2C5,12_22,57,Pre-adapted,FALSE
+Pa,Pa,Exp26-p2H4,12_22,58,Pre-adapted,FALSE
+Ab,Ab_IN72,Exp26-p2G5,12_22,59,Pre-adapted,FALSE
+Pf,Pf_Ab,Exp26-p2C3,12_22,60,Pre-adapted,FALSE
+Pch,Pch_Pf,Exp26-p2F6,12_22,61,Pre-adapted,FALSE
+Ea,Ea,Exp26-p2H2,12_22,62,Pre-adapted,FALSE
+Ab,Ab,Exp26-p3C1,12_22,63,Pre-adapted,FALSE
+Ab,Ab_IN72,Exp26-p2A5,12_22,64,Pre-adapted,FALSE
+Pa,Ea_Pa,Exp26-p2C11,12_22,65,Pre-adapted,FALSE
+Ab,Pf_Ab,Exp26-p2C3,12_22,66,Pre-adapted,FALSE
+Ab,Pf_Ab,Exp26-p2F4,12_22,67,Pre-adapted,FALSE
+Ea,Ea_Pa,Exp26-p2C11,12_22,68,Pre-adapted,FALSE
+Pa,Ea_Pa,Exp26-p2F12,12_22,69,Pre-adapted,FALSE
+Pf,Pf_Ab,Exp26-p2F4,12_22,70,Pre-adapted,FALSE
+Pf,Pv_Pf,Exp26-p2G11,12_22,71,Pre-adapted,FALSE
+Pch,Pch_Sm,Exp26-p2G3,12_22,72,Pre-adapted,FALSE
+Pf,Pf,Exp26-p3B10,12_22,73,Pre-adapted,FALSE
+Pch,Pch_Sm,Exp26-p2A3,12_22,74,Pre-adapted,FALSE
+Ab,Ab_IN72,Exp26-p2D6,12_22,75,Pre-adapted,FALSE
+Ea,Ea_Pf,Exp26-p2C9,12_22,76,Pre-adapted,FALSE
+Ea,Ea_Pa,Exp26-p2F12,12_22,77,Pre-adapted,FALSE
+Pf,Pf,Exp26-p2H10,12_22,78,Pre-adapted,FALSE
+Pch,Pch,Exp26-p3B6,12_22,79,Pre-adapted,FALSE
+Pa,Pa,Exp26-p3B4,12_22,80,Pre-adapted,FALSE
+Pa,Pa,Exp26-p3D4,12_22,81,Pre-adapted,FALSE
+Ea,Ea,Exp26-p3B2,12_22,82,Pre-adapted,FALSE
+Pch,Pch,Exp26-p3D6,12_22,83,Pre-adapted,FALSE
+Pa,Pa,Exp26-p3D4,12_22,84,Pre-adapted,FALSE
+Ab,Ab,Exp26-p3A1,12_22,85,Pre-adapted,FALSE
+Pf,Pf,Exp26-p3D10,12_22,86,Pre-adapted,FALSE
+Pa,Pa,Exp14-p1D2,12_22,88,Pre-adapted,TRUE
+Pch,Pch,Exp14-p1A3,12_22,89,Pre-adapted,TRUE
+Pf,Pf,Exp14-p1E5,12_22,90,Pre-adapted,TRUE
+Ab,Ab,Exp14-p1B8,12_22,91,Pre-adapted,TRUE
